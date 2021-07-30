@@ -161,7 +161,7 @@ specified `id` attribute to the specified `value`.
 Implement the `clearName` function to remove the display name item from
 `sessionStorage`.
 
-### Part 4: Testing
+### Part D: Testing
 
 You can and should test each part as your work, and at the end, please verify
 these scenarios work as expected.
